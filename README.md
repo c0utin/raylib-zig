@@ -18,4 +18,8 @@ You can then build the Zig project with the following command:
 ```bash
 zig build run
 ```
+### Example
+
+[goopers](https://github.com/c0utin/goppers)
+
 Have fun.
